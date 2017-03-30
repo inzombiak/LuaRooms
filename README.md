@@ -5,7 +5,7 @@ The game would function like a maze and players could download it, play it and a
 
 I tried to make the scripting as simple as possible, but there is some room to improve.
 
-#TODO
+# TODO
 * Add items
-* Add ways to intereact with players inventory
+* Add ways to interact with players inventory
 * Add more things to do 
